@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Overview
-
 This project performs crack and corrosion detection using traditional image processing techniques without machine learning.
 
 ## Features
@@ -45,7 +43,7 @@ Update dataset paths in the code before running.
 ![Corrosion](corrosion.png)
 
 ### Crack Detection (NEU-DET)
-![Crack](krack.png)
+![Crack](crack.png)
 
 ### Custom Crack Detection
 ![Custom Crack](small_custom.png)
