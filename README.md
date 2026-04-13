@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project performs crack and corrosion detection using image processing.
+## Overview
+
+This project performs crack and corrosion detection using traditional image processing techniques without machine learning.
 
 ## Features
 
@@ -36,6 +38,17 @@ This project performs crack and corrosion detection using image processing.
 ## Dataset
 
 Update dataset paths in the code before running.
+
+## Results
+
+### Corrosion Detection
+![Corrosion](corrosion.png)
+
+### Crack Detection (NEU-DET)
+![Crack](krack.png)
+
+### Custom Crack Detection
+![Custom Crack](small_custom.png)
 
 ## Author
 
